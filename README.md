@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Federico Tsushima
 #### I'm currently studying Python 3 in the Udemy course "The complete Python developer" by Andrei Neagoie
-I have been recently introduced to the world of programming and I´m very excited about learning a lot of other topics as well. I currently haven't decided which career I want to follow but I know I will make that decision along the way of completing this, and many other programming courses. You can check out more about me with the following links: https://www.instagram.com/fede6t/ www.linkedin.com/in/federico-leandro-tsushima-okutsu-64444019b
+I have been recently introduced to the world of programming and I´m very excited about learning a lot of other topics as well. I currently haven't decided which career I want to follow but I know I will make that decision along the way of completing this, and many other programming courses. 
 
 Skills: Python 3
 
